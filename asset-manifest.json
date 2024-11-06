@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SampathVinayak07/react-app/static/css/main.dc4d6ff2.css",
+    "main.js": "/SampathVinayak07/react-app/static/js/main.91b037e8.js",
+    "static/js/453.b2157c12.chunk.js": "/SampathVinayak07/react-app/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/SampathVinayak07/react-app/static/media/loading.2be39979565d91edc0a9.gif",
+    "index.html": "/SampathVinayak07/react-app/index.html",
+    "main.dc4d6ff2.css.map": "/SampathVinayak07/react-app/static/css/main.dc4d6ff2.css.map",
+    "main.91b037e8.js.map": "/SampathVinayak07/react-app/static/js/main.91b037e8.js.map",
+    "453.b2157c12.chunk.js.map": "/SampathVinayak07/react-app/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.91b037e8.js"
+  ]
+}
